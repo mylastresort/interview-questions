@@ -22,11 +22,11 @@ public:
         }
         std::vector<int> ret;
         for (const auto & v : sorted_map) {
-            cout << "first" << v.first;
+            // cout << "first" << v.first;
             for (const auto & n: v.second) {
                 cout << " " << n;
             }
-            cout << endl;
+            // cout << endl;
             ret.insert(ret.begin(), v.second.begin(), v.second.end());
         }
         return ret;
