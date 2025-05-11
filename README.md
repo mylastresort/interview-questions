@@ -16,10 +16,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/mylastresort/interview-questions/tree/master/0389-find-the-difference) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/mylastresort/interview-questions/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/mylastresort/interview-questions/tree/master/0389-find-the-difference) |
 | [1333-sort-the-jumbled-numbers](https://github.com/mylastresort/interview-questions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/mylastresort/interview-questions/tree/master/1741-sort-array-by-increasing-frequency) |
+## String
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/mylastresort/interview-questions/tree/master/0389-find-the-difference) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/mylastresort/interview-questions/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
