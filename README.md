@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mylastresort/interview-questions/tree/master/0002-add-two-numbers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/mylastresort/interview-questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Dynamic Programming
 |  |
@@ -53,4 +54,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/mylastresort/interview-questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/mylastresort/interview-questions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/mylastresort/interview-questions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
