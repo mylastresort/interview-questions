@@ -12,12 +12,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1333-sort-the-jumbled-numbers](https://github.com/mylastresort/interview-questions/tree/master/1333-sort-the-jumbled-numbers) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/mylastresort/interview-questions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/mylastresort/interview-questions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2215-finding-3-digit-even-numbers](https://github.com/mylastresort/interview-questions/tree/master/2215-finding-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/mylastresort/interview-questions/tree/master/0389-find-the-difference) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/mylastresort/interview-questions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/mylastresort/interview-questions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2215-finding-3-digit-even-numbers](https://github.com/mylastresort/interview-questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/mylastresort/interview-questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -53,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [1510-find-lucky-integer-in-an-array](https://github.com/mylastresort/interview-questions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/mylastresort/interview-questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Linked List
 |  |
