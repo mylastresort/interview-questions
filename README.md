@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1333-sort-the-jumbled-numbers](https://github.com/mylastresort/interview-questions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/mylastresort/interview-questions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/mylastresort/interview-questions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2058-concatenation-of-array](https://github.com/mylastresort/interview-questions/tree/master/2058-concatenation-of-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/mylastresort/interview-questions/tree/master/2215-finding-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -90,4 +91,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/mylastresort/interview-questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mylastresort/interview-questions/tree/master/0145-binary-tree-postorder-traversal) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/mylastresort/interview-questions/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
