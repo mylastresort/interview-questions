@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/mylastresort/interview-questions/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mylastresort/interview-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/mylastresort/interview-questions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/mylastresort/interview-questions/tree/master/0219-contains-duplicate-ii) |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/mylastresort/interview-questions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/mylastresort/interview-questions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/mylastresort/interview-questions/tree/master/0219-contains-duplicate-ii) |
 | [0389-find-the-difference](https://github.com/mylastresort/interview-questions/tree/master/0389-find-the-difference) |
@@ -37,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/mylastresort/interview-questions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/mylastresort/interview-questions/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/mylastresort/interview-questions/tree/master/0389-find-the-difference) |
 | [1333-sort-the-jumbled-numbers](https://github.com/mylastresort/interview-questions/tree/master/1333-sort-the-jumbled-numbers) |
@@ -45,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/mylastresort/interview-questions/tree/master/0049-group-anagrams) |
 | [0389-find-the-difference](https://github.com/mylastresort/interview-questions/tree/master/0389-find-the-difference) |
 | [3540-hash-divided-string](https://github.com/mylastresort/interview-questions/tree/master/3540-hash-divided-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/mylastresort/interview-questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
