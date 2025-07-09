@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mylastresort/interview-questions/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/mylastresort/interview-questions/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/mylastresort/interview-questions/tree/master/0303-range-sum-query-immutable) |
 | [0816-design-hashset](https://github.com/mylastresort/interview-questions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/mylastresort/interview-questions/tree/master/0817-design-hashmap) |
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mylastresort/interview-questions/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/mylastresort/interview-questions/tree/master/0219-contains-duplicate-ii) |
 | [0389-find-the-difference](https://github.com/mylastresort/interview-questions/tree/master/0389-find-the-difference) |
 | [0816-design-hashset](https://github.com/mylastresort/interview-questions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/mylastresort/interview-questions/tree/master/0817-design-hashmap) |
@@ -130,4 +132,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/mylastresort/interview-questions/tree/master/0908-middle-of-the-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/mylastresort/interview-questions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
