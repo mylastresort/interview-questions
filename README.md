@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mylastresort/interview-questions/tree/master/0169-majority-element) |
+| [0303-range-sum-query-immutable](https://github.com/mylastresort/interview-questions/tree/master/0303-range-sum-query-immutable) |
 | [0817-design-hashmap](https://github.com/mylastresort/interview-questions/tree/master/0817-design-hashmap) |
 | [1333-sort-the-jumbled-numbers](https://github.com/mylastresort/interview-questions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/mylastresort/interview-questions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -109,9 +110,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/mylastresort/interview-questions/tree/master/0303-range-sum-query-immutable) |
 | [0817-design-hashmap](https://github.com/mylastresort/interview-questions/tree/master/0817-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/mylastresort/interview-questions/tree/master/0817-design-hashmap) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/mylastresort/interview-questions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
