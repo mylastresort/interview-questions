@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/mylastresort/interview-questions/tree/master/0389-find-the-difference) |
+| [3540-hash-divided-string](https://github.com/mylastresort/interview-questions/tree/master/3540-hash-divided-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/mylastresort/interview-questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Bit Manipulation
 |  |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/mylastresort/interview-questions/tree/master/2058-concatenation-of-array) |
+| [3540-hash-divided-string](https://github.com/mylastresort/interview-questions/tree/master/3540-hash-divided-string) |
 ## Divide and Conquer
 |  |
 | ------- |
