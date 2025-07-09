@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/mylastresort/interview-questions/tree/master/0169-majority-element) |
 | [0303-range-sum-query-immutable](https://github.com/mylastresort/interview-questions/tree/master/0303-range-sum-query-immutable) |
+| [0816-design-hashset](https://github.com/mylastresort/interview-questions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/mylastresort/interview-questions/tree/master/0817-design-hashmap) |
 | [1333-sort-the-jumbled-numbers](https://github.com/mylastresort/interview-questions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/mylastresort/interview-questions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/mylastresort/interview-questions/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/mylastresort/interview-questions/tree/master/0389-find-the-difference) |
+| [0816-design-hashset](https://github.com/mylastresort/interview-questions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/mylastresort/interview-questions/tree/master/0817-design-hashmap) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/mylastresort/interview-questions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/mylastresort/interview-questions/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -70,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mylastresort/interview-questions/tree/master/0002-add-two-numbers) |
+| [0816-design-hashset](https://github.com/mylastresort/interview-questions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/mylastresort/interview-questions/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/mylastresort/interview-questions/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
@@ -112,10 +115,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/mylastresort/interview-questions/tree/master/0303-range-sum-query-immutable) |
+| [0816-design-hashset](https://github.com/mylastresort/interview-questions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/mylastresort/interview-questions/tree/master/0817-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
+| [0816-design-hashset](https://github.com/mylastresort/interview-questions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/mylastresort/interview-questions/tree/master/0817-design-hashmap) |
 ## Prefix Sum
 |  |
