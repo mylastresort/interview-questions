@@ -12,7 +12,6 @@ public:
 
             if (map.count(c)) {
                 map[c]->push_back(s);
-                cout << c << " " << s << endl;
             } else {
                 vector<string> *grp = new vector<string>();
                 map[c] = grp;
