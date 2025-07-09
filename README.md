@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/mylastresort/interview-questions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/mylastresort/interview-questions/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/mylastresort/interview-questions/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/mylastresort/interview-questions/tree/master/0347-top-k-frequent-elements) |
 | [0816-design-hashset](https://github.com/mylastresort/interview-questions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/mylastresort/interview-questions/tree/master/0817-design-hashmap) |
 | [1333-sort-the-jumbled-numbers](https://github.com/mylastresort/interview-questions/tree/master/1333-sort-the-jumbled-numbers) |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/mylastresort/interview-questions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/mylastresort/interview-questions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/mylastresort/interview-questions/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/mylastresort/interview-questions/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/mylastresort/interview-questions/tree/master/0389-find-the-difference) |
 | [0816-design-hashset](https://github.com/mylastresort/interview-questions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/mylastresort/interview-questions/tree/master/0817-design-hashmap) |
@@ -41,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0049-group-anagrams](https://github.com/mylastresort/interview-questions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/mylastresort/interview-questions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/mylastresort/interview-questions/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/mylastresort/interview-questions/tree/master/0389-find-the-difference) |
 | [1333-sort-the-jumbled-numbers](https://github.com/mylastresort/interview-questions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/mylastresort/interview-questions/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -74,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mylastresort/interview-questions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/mylastresort/interview-questions/tree/master/0347-top-k-frequent-elements) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/mylastresort/interview-questions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/mylastresort/interview-questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Linked List
@@ -121,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mylastresort/interview-questions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/mylastresort/interview-questions/tree/master/0347-top-k-frequent-elements) |
 ## Design
 |  |
 | ------- |
@@ -145,4 +150,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/mylastresort/interview-questions/tree/master/0219-contains-duplicate-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mylastresort/interview-questions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mylastresort/interview-questions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mylastresort/interview-questions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
