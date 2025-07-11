@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/mylastresort/interview-questions/tree/master/0347-top-k-frequent-elements) |
 | [0816-design-hashset](https://github.com/mylastresort/interview-questions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/mylastresort/interview-questions/tree/master/0817-design-hashmap) |
+| [1127-last-stone-weight](https://github.com/mylastresort/interview-questions/tree/master/1127-last-stone-weight) |
 | [1333-sort-the-jumbled-numbers](https://github.com/mylastresort/interview-questions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/mylastresort/interview-questions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/mylastresort/interview-questions/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/mylastresort/interview-questions/tree/master/0347-top-k-frequent-elements) |
+| [1127-last-stone-weight](https://github.com/mylastresort/interview-questions/tree/master/1127-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
